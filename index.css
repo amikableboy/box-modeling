@@ -1,0 +1,184 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/* navigation */
+.nav-div{
+    border: 4px solid blue;
+    display: flex;
+    position: relative;
+    height: 70px;
+}
+.img-div{
+    border: 4px solid yellow;
+    height: 40px;
+    width: 3%;
+    position: absolute;
+    top: 11px;
+    left: 10px;
+}
+.l-name-div{
+    border: 4px solid yellow;
+    height: 20px;
+    width: 7%;
+    position: absolute;
+    top: 20px;
+    left: 60px; 
+}
+.list-div-1{
+    border: 4px solid yellow;
+    height: 20px;
+    width: 4%;
+    position: absolute;
+    right: 10px;
+    top: 20px;
+}
+.list-div-2{
+    border: 4px solid yellow;
+    height: 20px;
+    width: 4%;
+    position: absolute;
+    right: 75px;
+    top: 20px;
+}
+.list-div-3{
+    border: 4px solid yellow;
+    height: 20px;
+    width: 4%;
+    position: absolute;
+    right: 140px;
+    top: 20px;
+}
+/* hero */
+.hero-div{
+    border: 4px solid blue;
+    height: 300px;
+}
+.hero-intro{
+    border: 4px solid yellow;
+    height: 140px;
+    width: 25%;
+    margin: 30px 0 50px 25px;
+}
+.hero-outro{
+    border: 4px solid yellow;
+    height: 40px;
+    width: 25%; 
+    margin: 0 0 0 25px;
+}
+/* biography */
+.bio{
+    border: 4px solid blue;
+    height: 200px;
+    position: relative;
+}
+.bio1{
+    border: 4px solid yellow;
+    height: 120px;
+    width: 40%;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+}
+.bio2{
+    border: 4px solid yellow;
+    height: 120px;
+    width: 40%;
+    position: absolute;
+    top: 40px;
+    right: 30px;
+}
+/* carousel */
+.carousel-div{
+    border: 4px solid blue;
+    height: 250px;
+}
+.carousel{
+    border: 4px solid yellow;
+    height: 180px;
+    width: 95%;
+    margin: 35px auto;
+    position: relative;
+}
+.left-slide{
+    border: 4px solid green;
+    height: 40px;
+    width: 2%;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+}
+.right-slide{
+    border: 4px solid green;
+    height: 40px;
+    width: 2%;
+    position: absolute;
+    top: 60px;
+    right: 20px;
+}
+/* cards */
+.card-div{
+    border: 4px solid blue;
+    height: 300px;
+    position: relative;
+}
+.card1{
+    border: 4px solid yellow;
+    height: 200px;
+    width: 20%;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+.card2{
+    border: 4px solid yellow;
+    height: 200px;
+    width: 20%;
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+.card3{
+    border: 4px solid yellow;
+    height: 200px;
+    width: 20%;
+    position: absolute;
+    right: 30px;
+    top: 30px;
+}
+/* social-icons */
+.soc1{
+    border: 4px solid yellow;
+    height: 25px;
+    width: 4%;
+    position: absolute;
+    bottom: 11px;
+    left: 30px;
+}
+
+.soc2{
+    border: 4px solid yellow;
+    height: 25px;
+    width: 4%;
+    position: absolute;
+    bottom: 11px;
+    left: 100px;
+}
+
+.soc3{
+    border: 4px solid yellow;
+    height: 25px;
+    width: 4%;
+    position: absolute;
+    bottom: 11px;
+    left: 170px;
+}
+
+.soc4{
+    border: 4px solid yellow;
+    height: 25px;
+    width: 4%;
+    position: absolute;
+    bottom: 11px;
+    left: 240px;
+}
